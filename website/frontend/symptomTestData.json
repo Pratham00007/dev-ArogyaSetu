@@ -1,0 +1,6 @@
+{
+  "Fever": ["CBC", "Blood Culture", "COVID-19 Test"],
+  "Cough": ["Chest X-Ray", "Sputum Test"],
+  "Fatigue": ["Thyroid Function Test", "Vitamin B12 Test"],
+  "Headache": ["MRI", "CT Scan", "Blood Pressure Check"]
+}
